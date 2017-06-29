@@ -2,7 +2,7 @@
 public class Gugudan {
 	public static void main(String[] args) {
 		// 2단
-		System.out.println("2단");
+		System.out.println("2 단");
 		System.out.println(2*1);
 		System.out.println(2*2);
 		System.out.println(2*3);
@@ -14,7 +14,7 @@ public class Gugudan {
 		System.out.println(2*9);
 		
 		// 3단
-		System.out.println("3단");
+		System.out.println("3 단");
 		System.out.println(3*1);
 		System.out.println(3*2);
 		System.out.println(3*3);
